@@ -1,6 +1,6 @@
-# Apresentando o Projeto "Validação de Comentários" 💬✅
+# Projeto "Validação de Comentários" 💬✅
 
-## Implementação Eficiente 💪. 
+## Implementação Eficiente 💪 
 
 Com um código bem estruturado, o programa verifica se há palavras proibidas no comentário fornecido. 
 
